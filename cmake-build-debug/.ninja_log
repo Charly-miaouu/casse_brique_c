@@ -1,0 +1,13 @@
+# ninja log v5
+2	293	7270465620258235	build.ninja	aab695c5778f5bf7
+6	942	7270462687374213	CMakeFiles/project_casse_brique.dir/main.c.obj	ccb4caaaa5acd27d
+944	1180	7270462689711732	project_casse_brique.exe	7ae006793126c5de
+8	923	7270466091521885	CMakeFiles/project_casse_brique.dir/initialize.c.obj	4da0588de4d61911
+24	979	7270466092064233	CMakeFiles/project_casse_brique.dir/main.c.obj	ccb4caaaa5acd27d
+5	950	7270466644337012	CMakeFiles/project_casse_brique.dir/initialize.c.obj	4da0588de4d61911
+5	989	7270467229189864	CMakeFiles/project_casse_brique.dir/initialize.c.obj	4da0588de4d61911
+16	1066	7270467229955568	CMakeFiles/project_casse_brique.dir/main.c.obj	ccb4caaaa5acd27d
+1067	1268	7270467231914219	project_casse_brique.exe	ee75880eddfcd866
+21	795	7270467791782604	CMakeFiles/project_casse_brique.dir/initialize.c.obj	4da0588de4d61911
+6	804	7270467791879269	CMakeFiles/project_casse_brique.dir/main.c.obj	ccb4caaaa5acd27d
+804	997	7270467793776233	project_casse_brique.exe	ee75880eddfcd866

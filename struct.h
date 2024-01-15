@@ -15,7 +15,7 @@
 
 #define SCREEN_WIDTH 1500
 #define SCREEN_HEIGHT 700
-#define NUM_BRICKS 5
+#define NUM_BRICKS 10
 
 typedef struct {
     SDL_Rect rect;
